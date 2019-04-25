@@ -2,8 +2,7 @@
 
 This repository includes the implementation of a recommendation system for [Chinese store data](https://www.kaggle.com/chiranjivdas09/ta-feng-grocery-dataset/version/1#) and its interface in the form of a chat bot.
 
- Demo version https://youtu.be/mq8dxKXnOAg
- 
+ **Demo version (сlick on the image below)** 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=mq8dxKXnOAg
 " target="_blank"><img src="http://img.youtube.com/vi/mq8dxKXnOAg/0.jpg" 
 alt="Demo version" width="240" height="180" border="10" /></a>
