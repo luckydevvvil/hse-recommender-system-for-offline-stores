@@ -4,7 +4,7 @@ This repository includes the implementation of a recommendation system for [Chin
 
  **A demo version of the client's communication with the recommendation system is available [here](https://www.youtube.com/watch?v=mq8dxKXnOAg&feature=youtu.be).**
  
-`@HseRecomSystemBot` - the name of the chat bot. Available at any time.
+`@HseRecomSystemBot` - the name of the chat bot. Available at any time.<br/>
 `Model_Comparison.ipynb` contains research on the selection of the predictive model.<br/>
 `Practice_Report_Mugtasimov` is a report on the practice.
 
