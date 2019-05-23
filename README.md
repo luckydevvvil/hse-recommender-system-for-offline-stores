@@ -12,4 +12,4 @@ alt="Demo version" width="240" height="180" border="10" /></a>
 `Model_Comparison.ipynb` contains research on the selection of the predictive model.<br/>
 `Practice_Report_Mugtasimov` is a report on the practice.
 
-
+![alt text](https://github.com/luckydevvvil/hse-recommender-system-for-offline-stores/blob/master/at_the_checkout.png)
